@@ -19,21 +19,21 @@
                 href="https://mstekiel.github.io/wedding/en/"
                 />
   </url><url>
-    <loc>https://mstekiel.github.io/wedding/en/destination/destination/</loc>
+    <loc>https://mstekiel.github.io/wedding/en/destination/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://mstekiel.github.io/wedding/pl/destination/destination/"
+                href="https://mstekiel.github.io/wedding/pl/destination/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://mstekiel.github.io/wedding/it/destination/destination/"
+                href="https://mstekiel.github.io/wedding/it/destination/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mstekiel.github.io/wedding/en/destination/destination/"
+                href="https://mstekiel.github.io/wedding/en/destination/"
                 />
   </url><url>
     <loc>https://mstekiel.github.io/wedding/en/categories/</loc>
@@ -53,55 +53,38 @@
                 href="https://mstekiel.github.io/wedding/en/categories/"
                 />
   </url><url>
-    <loc>https://mstekiel.github.io/wedding/en/destination/</loc>
+    <loc>https://mstekiel.github.io/wedding/en/trn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://mstekiel.github.io/wedding/pl/destination/"
+                href="https://mstekiel.github.io/wedding/pl/trn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://mstekiel.github.io/wedding/it/destination/"
+                href="https://mstekiel.github.io/wedding/it/trn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mstekiel.github.io/wedding/en/destination/"
+                href="https://mstekiel.github.io/wedding/en/trn/"
                 />
   </url><url>
-    <loc>https://mstekiel.github.io/wedding/en/destination/trn/</loc>
+    <loc>https://mstekiel.github.io/wedding/en/waw/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://mstekiel.github.io/wedding/pl/destination/trn/"
+                href="https://mstekiel.github.io/wedding/pl/waw/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://mstekiel.github.io/wedding/it/destination/trn/"
+                href="https://mstekiel.github.io/wedding/it/waw/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mstekiel.github.io/wedding/en/destination/trn/"
-                />
-  </url><url>
-    <loc>https://mstekiel.github.io/wedding/en/destination/waw/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://mstekiel.github.io/wedding/pl/destination/waw/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://mstekiel.github.io/wedding/it/destination/waw/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mstekiel.github.io/wedding/en/destination/waw/"
+                href="https://mstekiel.github.io/wedding/en/waw/"
                 />
   </url><url>
     <loc>https://mstekiel.github.io/wedding/en/tags/</loc>

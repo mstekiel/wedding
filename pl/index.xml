@@ -9,23 +9,23 @@
     <atom:link href="https://mstekiel.github.io/wedding/pl/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://mstekiel.github.io/wedding/pl/destination/destination/</link>
+      <link>https://mstekiel.github.io/wedding/pl/destination/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mstekiel.github.io/wedding/pl/destination/destination/</guid>
+      <guid>https://mstekiel.github.io/wedding/pl/destination/</guid>
       <description>Imprezuje w:</description>
     </item>
     <item>
       <title>Wesele Laury i Michała</title>
-      <link>https://mstekiel.github.io/wedding/pl/destination/trn/</link>
+      <link>https://mstekiel.github.io/wedding/pl/trn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mstekiel.github.io/wedding/pl/destination/trn/</guid>
+      <guid>https://mstekiel.github.io/wedding/pl/trn/</guid>
       <description>Plan gry&#xA;18:00 Slub w urzedzie 20:00 jedzonko</description>
     </item>
     <item>
       <title>Wesele Laury i Michała</title>
-      <link>https://mstekiel.github.io/wedding/pl/destination/waw/</link>
+      <link>https://mstekiel.github.io/wedding/pl/waw/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mstekiel.github.io/wedding/pl/destination/waw/</guid>
+      <guid>https://mstekiel.github.io/wedding/pl/waw/</guid>
       <description>Plan gry&#xA;17:00 Impreza w Boathousie</description>
     </item>
   </channel>
