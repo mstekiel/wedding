@@ -3738,7 +3738,6 @@ input[type=submit].btn-block {
 }
 .nav {
   background-color: var(--mc3);
-  border-radius: 0px 0px 25px 25px;
   display:-ms-flexbox;
   display:flex;
   -ms-flex-wrap:wrap;
@@ -3749,11 +3748,13 @@ input[type=submit].btn-block {
 }
 .nav-link {
   display:block;
-  padding:.5rem 1rem
+  padding: 0.5rem 1rem;
+  border: 0.3rem solid var(--mc3);
+
 }
 .nav-link:focus,
 .nav-link:hover {
-  text-decoration:none
+  text-decoration-line: underline;
 }
 .nav-link.disabled {
   color:#6c757d;
@@ -6038,10 +6039,10 @@ button.bg-dark:hover {
   border-color:#fff!important
 }
 .rounded-sm {
-  border-radius:.2rem!important
+  border-radius:.5rem!important
 }
 .rounded {
-  border-radius:.25rem!important
+  border-radius:1rem!important
 }
 .rounded-top {
   border-top-left-radius:.25rem!important;
@@ -6052,8 +6053,8 @@ button.bg-dark:hover {
   border-bottom-right-radius:.25rem!important
 }
 .rounded-bottom {
-  border-bottom-right-radius:.25rem!important;
-  border-bottom-left-radius:.25rem!important
+  border-bottom-right-radius:1rem!important;
+  border-bottom-left-radius:1rem!important
 }
 .rounded-left {
   border-top-left-radius:.25rem!important;

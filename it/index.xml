@@ -8,25 +8,25 @@
     <language>it</language>
     <atom:link href="https://mstekiel.github.io/wedding/it/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>https://mstekiel.github.io/wedding/it/destination/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mstekiel.github.io/wedding/it/destination/</guid>
-      <description> Vado a: </description>
-    </item>
-    <item>
-      <title>Matrimonio di Laura e Michal</title>
+      <title>Matrimonio a Torino</title>
       <link>https://mstekiel.github.io/wedding/it/trn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://mstekiel.github.io/wedding/it/trn/</guid>
       <description>18:00 Ceremonia Spoziama a Sala dei Marmi di Palazzo Civico a Torino.&#xA;Adresso: Piazza Palazzo de citta 5&#xA;20:00 Cena Ceniamo al ristorante Norman. Ce 10 minuti da caminare dello Palazzo Civico, comunque passegiamo tutti insieme doppo la ceremonia.</description>
     </item>
     <item>
-      <title>Matrimonio di Laura e Michal</title>
+      <title>Ricezione a Varsovia</title>
       <link>https://mstekiel.github.io/wedding/it/waw/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://mstekiel.github.io/wedding/it/waw/</guid>
       <description>Festiamo al ristorante Boathouse.&#xA;18:00 Saluti Cominciamo al giardino della ristorante con bevite e finger food.&#xA;19:30 Cena 21:00 Festa Apriamo il dancefloor.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://mstekiel.github.io/wedding/it/destination/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mstekiel.github.io/wedding/it/destination/</guid>
+      <description> Vado a: </description>
     </item>
   </channel>
 </rss>
