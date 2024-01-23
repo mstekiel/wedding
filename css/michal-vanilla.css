@@ -3737,6 +3737,8 @@ input[type=submit].btn-block {
   }
 }
 .nav {
+  background-color: var(--mc3);
+  border-radius: 0px 0px 25px 25px;
   display:-ms-flexbox;
   display:flex;
   -ms-flex-wrap:wrap;
@@ -9163,5 +9165,5 @@ a.text-dark:hover {
 }
 #m_img:hover{
   border-radius: 45%;
-  background-color: var(--mc2);
+  background-color: var(--mc3);
 }
