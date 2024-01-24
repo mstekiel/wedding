@@ -3744,7 +3744,7 @@ input[type=submit].btn-block {
   flex-wrap:wrap;
   padding-left:0;
   margin-bottom:0;
-  list-style:none
+  list-style:none;
 }
 .nav-link {
   display:block;
@@ -9167,4 +9167,9 @@ a.text-dark:hover {
 #m_img:hover{
   border-radius: 45%;
   background-color: var(--mc3);
+}
+.box{
+  display: grid;
+  grid-auto-flow: column;
+  grid-column-gap: 20px;
 }

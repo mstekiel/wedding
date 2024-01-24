@@ -53,23 +53,6 @@
                 href="https://mstekiel.github.io/wedding/it/destination/"
                 />
   </url><url>
-    <loc>https://mstekiel.github.io/wedding/it/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://mstekiel.github.io/wedding/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mstekiel.github.io/wedding/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://mstekiel.github.io/wedding/it/categories/"
-                />
-  </url><url>
     <loc>https://mstekiel.github.io/wedding/it/</loc>
     <xhtml:link
                 rel="alternate"
@@ -85,23 +68,6 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://mstekiel.github.io/wedding/it/"
-                />
-  </url><url>
-    <loc>https://mstekiel.github.io/wedding/it/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://mstekiel.github.io/wedding/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mstekiel.github.io/wedding/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://mstekiel.github.io/wedding/it/tags/"
                 />
   </url>
 </urlset>
