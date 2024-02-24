@@ -25,10 +25,11 @@
   --danger:#dc3545;
   --light:#f8f9fa;
   --dark:#343a40;
-  --mc4:#527853;
-  --mc1:#f9e8d9;
-  --mc2:#f7b787;
-  --mc3:#ee7214;
+  --mc1: #F1CFCE;
+  --mcBackground:var(--mc1);
+  --mc2:#E3B1B0;
+  --mc3:#B26E6F;
+  --mc4:#daa06d;
   --breakpoint-xs:0;
   --breakpoint-sm:576px;
   --breakpoint-md:768px;
@@ -69,10 +70,11 @@ body {
   line-height:1;
   color: black;
   text-align:left;
-  background-color: var(--mc1);
-  /* background-image: url("../calendar-en.jpeg");
-  background-repeat: repeat-y;
-  background-position: center; */
+  background-color: var(--mcBackground);
+  /* background-image: url("/wedding/images/waw-bkg.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center; */
 }
 [tabindex="-1"]:focus {
   outline:0!important
@@ -9167,6 +9169,9 @@ a.text-dark:hover {
 #m_img:hover{
   border-radius: 45%;
   background-color: var(--mc3);
+}
+#m_icon{
+  width: 24px;
 }
 .box{
   display: grid;

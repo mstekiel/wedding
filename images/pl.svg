@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 8.4666665 8.4666667"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="poland.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="18.000828"
+     inkscape:cx="22.582295"
+     inkscape:cy="15.749276"
+     inkscape:window-width="1822"
+     inkscape:window-height="1051"
+     inkscape:window-x="89"
+     inkscape:window-y="1491"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#ff0000;stroke:#000000;stroke-width:0.00398046"
+       d="M 3.8064546,8.4502668 C 2.6545676,8.3208552 1.6285571,7.7535885 0.91966836,6.8542041 0.4213189,6.2219359 0.11793638,5.480354 0.02451961,4.6661208 0.01212845,4.5581177 0.00199023,4.4170053 0.00199023,4.3525376 V 4.2353236 H 4.2333333 8.4646764 v 0.117214 c 0,0.3263717 -0.092065,0.8349198 -0.2194976,1.2124573 -0.2134162,0.6322777 -0.5456327,1.168239 -1.0221555,1.6490323 -0.6966719,0.702916 -1.5410314,1.1141474 -2.5252737,1.2298935 -0.2091314,0.024595 -0.6978971,0.028074 -0.891295,0.00635 z"
+       id="path690" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.00398046"
+       d="M 3.8064541,0.01640193 C 2.6545671,0.14581353 1.6285567,0.71308023 0.91966794,1.6124646 0.42131843,2.2447328 0.11793593,2.9863147 0.02451923,3.8005479 c -0.012391,0.1080031 -0.022529,0.2491155 -0.022529,0.3135832 v 0.117214 H 4.2333328 8.4646759 v -0.117214 c 0,-0.3263717 -0.092065,-0.8349198 -0.2194976,-1.2124573 C 8.0317621,2.2693961 7.6995456,1.7334348 7.2230228,1.2526415 6.5263509,0.54972553 5.6819914,0.13849413 4.6977491,0.02274803 c -0.2091314,-0.024595 -0.6978971,-0.028074 -0.891295,-0.00635 z"
+       id="path690-9" />
+    <g
+       id="g3019"
+       style="stroke:#808080;fill:none">
+      <path
+         style="fill:none;stroke:#808080;stroke-width:0.07"
+         d="M 0,4.2683333 H 8.4666667"
+         id="path454"
+         sodipodi:nodetypes="cc" />
+      <circle
+         style="fill:none;stroke:#808080;stroke-width:0.069426"
+         id="path398"
+         cx="4.2333331"
+         cy="4.2333331"
+         r="4.1986203" />
+    </g>
+  </g>
+</svg>
