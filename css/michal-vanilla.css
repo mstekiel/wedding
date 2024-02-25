@@ -28,7 +28,7 @@
   --mc1: #F1CFCE;
   --mc2:#E3B1B0;
   --mc3:#B26E6F;
-  --mc4:#daa06d;
+  --mc4:#527853;
   --mcNavbar:var(--mc3);
   --mcBackground:var(--mc1);
   --mcNavhighlight:var(--mc3);
@@ -94,7 +94,7 @@ Set different bacground depending on screen width
 
 hr {
   box-sizing:content-box;
-  height:0;
+  height:1;
   overflow:visible
 }
 h1,
@@ -168,13 +168,13 @@ sup {
   top:-.5em
 }
 a {
-  color:#007bff;
-  text-decoration:none;
+  color:var(--mc3);
+  text-decoration:underline;
   background-color:transparent
 }
 a:hover {
-  color:#0056b3;
-  text-decoration:underline
+  color:var(--mc4);
+  text-decoration: dashed underline
 }
 a:not([href]):not([tabindex]) {
   color:inherit;
@@ -406,7 +406,7 @@ hr {
   margin-top:1rem;
   margin-bottom:1rem;
   border:0;
-  border-top:1px solid rgba(0,0,0,.1)
+  border-top:5px solid rgba(0,0,0,.1)
 }
 .small,
 small {
