@@ -53,6 +53,23 @@
                 href="https://mstekiel.github.io/wedding/destination/"
                 />
   </url><url>
+    <loc>https://mstekiel.github.io/wedding/gifts/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://mstekiel.github.io/wedding/it/gifts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mstekiel.github.io/wedding/en/gifts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://mstekiel.github.io/wedding/gifts/"
+                />
+  </url><url>
     <loc>https://mstekiel.github.io/wedding/</loc>
     <xhtml:link
                 rel="alternate"
