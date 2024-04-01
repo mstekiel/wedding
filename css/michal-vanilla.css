@@ -9181,3 +9181,6 @@ a.text-dark:hover {
   grid-auto-flow: column;
   grid-column-gap: 20px;
 }
+.verticalLine {
+  border-left: medium solid var(--mc4);
+}
