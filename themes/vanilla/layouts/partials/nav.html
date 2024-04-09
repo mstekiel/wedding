@@ -1,0 +1,55 @@
+<div id="nav-border" class="container">
+  <!-- First bar with languages -->
+  <nav id="nav" class="nav justify-content-center rounded-bottom">
+
+  {{ $showActiveNav := site.Params.showActiveNav }}
+  {{ $currentPage := . }}
+  {{ $loc := printf "%s/" (path.Base $currentPage.Permalink) }}
+  {{ $pageLang := page.Lang}}
+  {{ $siteLanguages := site.Languages}}
+
+  {{ range site.Menus.nav }}
+    {{ $currentMenu := . }}
+    {{ $active := "" }}
+    {{ if eq $showActiveNav true }}
+        {{ if hasSuffix .URL $loc }}
+          {{ $active = "nav-link-active" }}
+        {{ end }}
+    {{ end }}
+
+    {{ $url := site.Home.Permalink }}
+    {{ range site.Pages }}
+      {{ if strings.Contains .Permalink $currentMenu.Name }}
+        {{ $url = .Permalink }}
+      {{ end }}
+    {{ end }}
+
+    {{ $icon := printf "<img src=\"%s\" id=\"m_icon\">" .Params.icon | safeHTML}}
+    <a class="nav-link {{ $active }}" href="{{ $url }}">{{ $icon }}</a>
+  {{ end }}
+
+  <div class="verticalLine"> </div>
+
+
+  {{- range .Page.AllTranslations }}
+      {{ $translation := . }}
+      {{ $active := "" }}
+
+      {{- range sort $siteLanguages "Weight" "asc" }}
+          {{- if eq $translation.Lang .Lang }}
+
+            {{ if eq $pageLang .Lang}}
+                {{ $active = "nav-link-active"}}
+            {{ end }}
+
+            {{ $icon := .Params.languageFlag}}
+            {{ if .Params.languageIcon }}
+              {{ $icon = printf "<img src=\"%s\" id=\"m_icon\">" .Params.languageIcon | safeHTML}}
+            {{ end }}
+
+            <a class="nav-link {{ $active }}" href="{{ $translation.Permalink | relURL }}">{{ $icon }}</a>
+          {{- end }}
+      {{- end }}
+  {{- end }}
+  </nav>
+</div>

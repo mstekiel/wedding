@@ -1,0 +1,17 @@
+{{ define "main" }}
+
+<h1 style="title-box">{{ .Title }}</h1>
+
+<h3 style="title-box">{{ page.Params.subTitle }}</h3>
+
+{{ if .Param "display_toc" }}
+    {{ .TableOfContents }}
+{{ end }}
+
+{{ $alignment := page.Params.align }}
+<div style="text-align: {{ $alignment }};">
+    {{ .Content }}
+</div>
+
+
+{{ end }}
