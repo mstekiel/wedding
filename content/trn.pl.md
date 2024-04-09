@@ -7,6 +7,7 @@ subTitle: "8 czerwca 2024"
 
 ---
 ## Ślub
+Prosimy o potwierdzenie przybycia do 1 czerwca 2024.
 
 ### 18:00 Ślub
 

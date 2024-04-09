@@ -7,6 +7,8 @@ subTitle: "29 giugno 2024"
 
 ---
 ## Ricevimento
+Vi preghiamo di farci avere conferma entro il primo Giugno 2024.
+
 
 Il ricevimento si terrà al ristorante [Boathouse](https://maps.app.goo.gl/CQnGYPdo35MCgaEU6).
 

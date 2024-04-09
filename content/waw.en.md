@@ -6,7 +6,10 @@ subTitle: "29th of June 2024"
 ---
 
 ---
+
 ## Reception
+Please let us know if you will be there until the 1st of June 2024.
+
 
 The reception will take place at the [Boathouse restaurant](https://maps.app.goo.gl/CQnGYPdo35MCgaEU6).
 

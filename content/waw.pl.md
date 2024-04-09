@@ -7,6 +7,7 @@ subTitle: "29 czerwca 2024"
 
 ---
 ## Wesele
+Prosimy o potwierdzenie przybycia do 1 czerwca 2024.
 
 Wesele odbędzie się w restauracji [Boathouse](https://maps.app.goo.gl/CQnGYPdo35MCgaEU6)
 
