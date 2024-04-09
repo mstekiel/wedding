@@ -3743,19 +3743,23 @@ input[type=submit].btn-block {
 }
 .nav {
   background-color: var(--mcNavbar);
-  display:-ms-flexbox;
-  display:flex;
-  -ms-flex-wrap:wrap;
-  flex-wrap:wrap;
-  padding-left:0;
-  margin-bottom:0;
-  list-style:none;
+  /* display:-ms-flexbox; */
+  display: inline-flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 0;
+  margin: 0;
+  /* text-align: justify; */
+  /* -ms-flex-wrap:wrap; */
+  /* flex-wrap:wrap; */
+  /* list-style:none; */
 }
 .nav-link {
   display:block;
   padding: 0.5rem 0.7rem;
   border: 0.3rem solid var(--mcNavhighlight);
-
+  border-bottom-left-radius:1rem!important;
+  border-bottom-right-radius:1rem!important;
 }
 .nav-link:focus,
 .nav-link:hover {
@@ -9182,5 +9186,7 @@ a.text-dark:hover {
   grid-column-gap: 20px;
 }
 .verticalLine {
-  border-left: medium solid var(--mc4);
+  border: medium solid var(--mc1);
+  /* border-bottom-left-radius: 1rem;
+  border-bottom-right-radius: 2rem; */
 }
