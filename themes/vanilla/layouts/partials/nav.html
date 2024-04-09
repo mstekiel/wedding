@@ -1,4 +1,4 @@
-<div id="nav-border" class="container">
+<div id="nav-border" class="container justify-content-center">
   <!-- First bar with languages -->
   <nav id="nav" class="nav justify-content-center rounded-bottom">
 
@@ -28,7 +28,9 @@
     <a class="nav-link {{ $active }}" href="{{ $url }}">{{ $icon }}</a>
   {{ end }}
 
-  <div class="verticalLine">   </div>
+  </nav>
+  <div class="verticalLine"> </div>
+  <nav id="nav" class="nav justify-content-center rounded-bottom">
 
 
   {{- range .Page.AllTranslations }}
@@ -47,7 +49,7 @@
               {{ $icon = printf "<img src=\"%s\" id=\"m_icon\">" .Params.languageIcon | safeHTML}}
             {{ end }}
 
-            <a class="nav-link {{ $active }}" href="{{ $translation.Permalink | relURL }}">{{ $icon }}</a>
+            <a class="nav-link {{ $active }}" href="{{ $translation.Permalink | relURL }}">{{ $icon }}</a> 
           {{- end }}
       {{- end }}
   {{- end }}

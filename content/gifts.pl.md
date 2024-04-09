@@ -6,6 +6,10 @@ align: center
 
 ## Prezenty
 
-*Na wesele przybywajcie o prezenty się nie martwcie,*
+*Na wesele przybywajcie*
 
-*By nie składać ich na stercie niechaj zmieszczą się w kopercie.*
+*o prezenty się nie martwcie,*
+
+*By nie składać ich na stercie*
+
+*niechaj zmieszczą się w kopercie.*
