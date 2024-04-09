@@ -2,6 +2,8 @@ baseURL: https://mstekiel.github.io/wedding
 title: L&M
 theme: vanilla
 
+publishDir: "docs"
+
 defaultContentLanguage: pl
 # defaultContentLanguageInSubdir: false
 languages:
