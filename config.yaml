@@ -44,12 +44,12 @@ menu:
     url: /trn/
     weight: 2
     params:
-      icon: /wedding/images/trn-logo.svg
+      icon: /wedding/images/trn-logo-small.svg
   - name: waw
     url: /waw/
     weight: 3
     params:
-      icon: /wedding/images/waw-logo.svg
+      icon: /wedding/images/waw-logo-small.svg
   - name: gifts
     url: /gifts/
     weight: 4

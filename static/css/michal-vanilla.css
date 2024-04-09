@@ -9182,5 +9182,7 @@ a.text-dark:hover {
   grid-column-gap: 20px;
 }
 .verticalLine {
-  border-left: medium solid var(--mc4);
+  border: medium solid var(--mc1);
+  /* border-bottom-left-radius: 1rem;
+  border-bottom-right-radius: 2rem; */
 }

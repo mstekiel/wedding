@@ -9,7 +9,7 @@
    viewBox="0 0 960 960"
    style="enable-background:new 0 0 960 960;"
    xml:space="preserve"
-   sodipodi:docname="gift.svg"
+   sodipodi:docname="gift-small.svg"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -34,8 +34,8 @@
    inkscape:deskcolor="#d1d1d1"
    showgrid="false"
    inkscape:zoom="0.6363961"
-   inkscape:cx="201.1326"
-   inkscape:cy="454.90536"
+   inkscape:cx="202.70394"
+   inkscape:cy="458.04806"
    inkscape:window-width="2303"
    inkscape:window-height="1471"
    inkscape:window-x="89"
@@ -51,10 +51,10 @@
 	.st3{fill:#EA3D53;}
 </style>
 <circle
-   style="fill:#b26e6f;fill-opacity:1;stroke:none;stroke-width:3.14807"
+   style="fill:#f1cfce;fill-opacity:1;stroke:none;stroke-width:3.14807"
    id="path4696-0"
    cx="480"
-   cy="480"
+   cy="478.42865"
    r="480" /><path
    class="st0"
    d="M 725.8,788.9 H 234.2 c -8.9,0 -16.1,-7.2 -16.1,-16.1 V 397.9 c 0,-8.9 7.2,-16.1 16.1,-16.1 h 491.6 c 8.9,0 16.1,7.2 16.1,16.1 v 374.9 c 0,8.9 -7.2,16.1 -16.1,16.1 z"
