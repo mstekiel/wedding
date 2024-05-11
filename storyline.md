@@ -1,7 +1,7 @@
-# TODO
+# Compilation
 
-- [ ] Add background image
-- [ ] Configure nice fonts
+1. Apply all changes in contents and static folder.
+2. Run hugo. Owing to the `publishDir: docs` flag in `config.yaml` the html output will be saved in docs folder, which can be deployed from GithubPages.
   
  
 # Development story
