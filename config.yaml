@@ -65,7 +65,7 @@ params:
   containerMaxWidth: 800px
   dateFormat: 2 Jan, 2006
   homeText: |
-    [<img src="/wedding/images/entrance.jpg" id="m_img" width=95%>]({{< ref "destination">}} "Turin wedding plan")
+    [<img src="/wedding/images/entrance-small.jpg" id="m_img" width=95%>]({{< ref "destination">}} "Turin wedding plan")
   footerText: Made with [Hugo](https://gohugo.io/) & [Vanilla](https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme)
   hideFooter: true
   katex: true
