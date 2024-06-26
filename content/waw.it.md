@@ -18,12 +18,24 @@ Il ricevimento si terrà al ristorante [Boathouse](https://maps.app.goo.gl/CQnGY
 
 Cocktail di benvenuto con bevande e finger food nel giardino del ristorante.
 
-### 19:30 Cena
-
+### 19:45 Cena
+La cena viene servita ai tavoli
 
 ### 21:00 Festa
 
-Apriamo le danze.
+Primo ballo e party
+
+### 23:00 Torta
+
+---
+## Afterparty
+
+### 12:00
+Per concludere l'esperienza in vero stile polacco ci troviamo il giorno dopo per il "poprawiny" al locale Cud nad Wisłą.
+Beviamo una birra e mangiamo qualcosa insieme prima di salutarci.
+
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d693.4622507131495!2d21.043623698178756!3d52.228790035258974!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471ecc5c9b71607b%3A0x7db324dc320db3b8!2zQ3VkIG5hZCBXaXPFgsSF!5e0!3m2!1sit!2sit!4v1719422070610!5m2!1sit!2sit" width="100%" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ---
 ## Dove alloggiare a Varsavia

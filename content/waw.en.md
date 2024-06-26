@@ -13,18 +13,33 @@ Please let us know if you will be there until the 1st of June 2024.
 
 The reception will take place at the [Boathouse restaurant](https://maps.app.goo.gl/CQnGYPdo35MCgaEU6).
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2444.0176598479748!2d21.053096577335417!3d52.22489695803547!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471ecd08b7ae764f%3A0xcdd484a2ea387bce!2sBOATHOUSE!5e0!3m2!1sde!2sde!4v1705933719774!5m2!1sde!2sde" width="100%" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2444.0176598479748!2d21.053096577335417!3d52.22489695803547!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471ecd08b7ae764f%3A0xcdd484a2ea387bce!2sBOATHOUSE!5e0!3m2!1sen!2sen!4v1705933719774!5m2!1sen!2sen" width="100%" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
 ### 18:00 Welcome
 
 We start the event by a welcoming you in the garden space. There will be drinks and finger food served, time to make photos together and chat.
 
-### 19:30 Dinner
+### 19:45 Dinner
+
+Served dinner at the tables. 
 
 ### 21:00 Party
 
-Opening of the dancefloor.
+Opening of the dancefloor with the first dance, full party mode afterwards.
+
+### 23:00 Cake
+
+---
+## Next day party
+
+### 12:00
+For a traditional Polish "poprawiny", a chill get-together after the reception let's meet in Cud nad Wisłą.
+We have a beer, maybe finish some leftover food and say a final farewell.
+
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d693.4622507131495!2d21.043623698178756!3d52.228790035258974!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471ecc5c9b71607b%3A0x7db324dc320db3b8!2zQ3VkIG5hZCBXaXPFgsSF!5e0!3m2!1sen!2spl!4v1719422070610!5m2!1sen!2spl" width="100%" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 
 ---
 ## Where to stay

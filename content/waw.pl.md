@@ -15,9 +15,26 @@ Wesele odbędzie się w restauracji [Boathouse](https://maps.app.goo.gl/CQnGYPdo
 
 ### 18:00 Przywitanie
 
-### 19:30 Kolacja
+Zaczynamy powolutku od przywitania w ogrodzie. Będą drinki powitalny i mały poczęstunek.
+
+### 19:45 Kolacja
+
+Siadamy do stołów gdzie będzie podana kolacja i zimna wódeczka.
 
 ### 21:00 Impreza
+
+Pierwszy taniec, zaczynamy dancing.
+
+### 23:00 Tort
+
+---
+## Poprawiny
+
+### 12:00
+Na tradycyjne poprawiny zapraszamy do Cudu nad Wisłą. Posiedzimy, pogadamy, mamy nadzieję, że złapiemy trochę słońca.
+
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d693.4622507131495!2d21.043623698178756!3d52.228790035258974!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471ecc5c9b71607b%3A0x7db324dc320db3b8!2zQ3VkIG5hZCBXaXPFgsSF!5e0!3m2!1spl!2spl!4v1719422070610!5m2!1spl!2spl" width="100%" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ---
 ## Nocleg w Warszawie
